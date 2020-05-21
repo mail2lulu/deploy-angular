@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Note-Add/White</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements/Graphics/Style3/Note/Add/White">
+            <g id="Group">
+                <circle id="Oval" stroke="#FFFFFF" cx="17.7391304" cy="17.7391304" r="5.26086957"></circle>
+                <rect id="Rectangle" fill="#FFFFFF" x="14.3913043" y="17.2608696" width="6.69565217" height="1"></rect>
+                <polygon id="Rectangle" fill="#FFFFFF" transform="translate(17.739130, 17.739130) rotate(90.000000) translate(-17.739130, -17.739130) " points="14.3913043 17.2608696 21.0869565 17.2608696 21.0869565 18.2173913 14.3913043 18.2173913"></polygon>
+                <path d="M21.130322,-3.37507799e-14 L21.1307507,11.0161959 C20.7885899,10.8952371 20.4356415,10.7971125 20.0737366,10.7236531 L20.0738059,1.0565161 L1.0565161,1.0565161 L1.0565161,17.9607737 L1.06231187,18.1184718 C1.13509151,19.1049495 1.88513925,19.9030866 2.8492606,20.0496886 L3.01185023,20.0680101 L3.1695483,20.0738059 L10.7236531,20.0737366 C10.7971125,20.4356415 10.8952371,20.7885899 11.0161959,21.1307507 L3.1695483,21.130322 C1.41905511,21.130322 -8.8817842e-15,19.7112669 -8.8817842e-15,17.9607737 L-8.8817842e-15,-3.37507799e-14 L21.130322,-3.37507799e-14 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
