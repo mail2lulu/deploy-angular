@@ -1,0 +1,21 @@
+_id: req_ca3496735e8748368106fa853633bd4f
+authentication: {}
+body: {}
+created: 1592981368951
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1592981368951
+method: GET
+modified: 1592981411097
+name: My Request
+parameters: []
+parentId: wrk_5812dd5fe2e542d6a68c85ecb938f690
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: https://jsonplaceholder.typicode.com/todos/1
